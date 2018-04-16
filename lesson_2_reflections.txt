@@ -17,3 +17,8 @@ the diagram the way we do?
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 	i know, don't push me so hard
+
+How can you use the staging area to make sure you have one commit per logical change?
+	use git diff --staged can help see changes between staging area and repository
+	
+	
