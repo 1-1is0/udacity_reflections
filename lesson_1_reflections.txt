@@ -44,3 +44,4 @@ a commit, like you do in Git, vs having versions automatically saved, like Googl
     work done.
     
 add some change to do commit
+i must flag -F to send file
