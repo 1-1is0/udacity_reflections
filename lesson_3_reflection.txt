@@ -7,3 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
     i rather push when ever i've doen something, not in the middle
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    branches are from same repo and work on that repo and so on ..........
+    clone use for copying repo to any computer and start to make change on it, you should stil be able to push and pull to main repo
+    fork is like copying someone project, push and pull are not going to work on repo you fork from                                                                                  
+
